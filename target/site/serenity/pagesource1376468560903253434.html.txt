@@ -1,0 +1,1095 @@
+<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="ro" id="top" class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html lang="ro" id="top" class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html lang="ro" id="top" class="no-js ie8"> <![endif]--><!--[if IE 9 ]>    <html lang="ro" id="top" class="no-js ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ro" id="top" class=" js no-touch localstorage no-ios" style=""><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Search results for: 'a'</title>
+<meta name="description" content="Default Description" />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://fasttrackit.org/selenium-test/skin/frontend/base/default/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://fasttrackit.org/selenium-test/skin/frontend/base/default/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://fasttrackit.org/selenium-test/js/blank.html';
+    var BLANK_IMG = 'https://fasttrackit.org/selenium-test/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/jquery/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/jquery/noconflict.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/js.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/form.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/weee.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/selectivizr.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/matchMedia.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/enquire.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/app.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/jquery.cycle2.swipe.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/slideshow.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/imagesloaded.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/minicart.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/base/default/js/msrp.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/msrp_rwd.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/configurableswatches/product-media.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/configurableswatches/swatches-list.js"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600" />
+<!--[if  (lte IE 8) & (!IEMobile)]>
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/styles-ie8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/madisonisland-ie8.css" media="all" />
+<![endif]-->
+<!--[if (gte IE 9) | (IEMobile)]><!-->
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/madisonisland.css" media="all" />
+<!--<![endif]-->
+
+<script type="text/javascript">
+//&lt;![CDATA[
+Mage.Cookies.path     = '/selenium-test';
+Mage.Cookies.domain   = '.fasttrackit.org';
+//]]&gt;
+</script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+
+<script type="text/javascript">
+//&lt;![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]&gt;
+</script>
+<script type="text/javascript">//&lt;![CDATA[
+        var Translator = new Translate([]);
+        //]]&gt;</script></head>
+<body class=" catalogsearch-result-index">
+<div class="wrapper">
+        <noscript>
+        &lt;div class="global-site-notice noscript"&gt;
+            &lt;div class="notice-inner"&gt;
+                &lt;p&gt;
+                    &lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;&lt;br /&gt;
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </noscript>
+    <div class="global-site-notice demo-notice">
+        <div class="notice-inner"><p>This is a demo store. Any orders placed through this store will not be honored or fulfilled.</p></div>
+    </div>
+    <div class="page">
+        
+<div class="header-language-background">
+    <div class="header-language-container">
+        <div class="store-language-container">
+            <div class="form-language">
+    <label for="select-language">Your Language:</label>
+    <select id="select-language" title="Your Language" onchange="window.location.href=this.value">
+                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=6&amp;q=a&amp;___store=default&amp;___from_store=default" selected="selected">English</option>
+                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?___store=french&amp;limit=12&amp;p=6&amp;q=a&amp;___from_store=default">French</option>
+                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?___store=german&amp;limit=12&amp;p=6&amp;q=a&amp;___from_store=default">German</option>
+        </select>
+</div>
+        </div>
+
+        
+        <p class="welcome-msg">Welcome, Dan Danfirescu! </p>
+    </div>
+</div>
+
+<header id="header" class="page-header">
+    <div class="page-header-container">
+        <a class="logo" href="https://fasttrackit.org/selenium-test/">
+            <img src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/images/media/logo.png" alt="Madison Island" class="large" />
+            <img src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/images/media/logo_small.png" alt="Madison Island" class="small" />
+        </a>
+
+                <div class="store-language-container"></div>
+
+        <!-- Skip Links -->
+
+        <div class="skip-links">
+            <a href="#header-nav" class="skip-link skip-nav">
+                <span class="icon"></span>
+                <span class="label">Menu</span>
+            </a>
+
+            <a href="#header-search" class="skip-link skip-search">
+                <span class="icon"></span>
+                <span class="label">Search</span>
+            </a>
+
+            <div class="account-cart-wrapper">
+                <a href="https://fasttrackit.org/selenium-test/customer/account/" data-target-element="#header-account" class="skip-link skip-account">
+                    <span class="icon"></span>
+                    <span class="label">Account</span>
+                </a>
+
+                <!-- Cart -->
+
+                <div class="header-minicart">
+                    
+
+<a href="https://fasttrackit.org/selenium-test/checkout/cart/" data-target-element="#header-cart" class="skip-link skip-cart ">
+    <span class="icon"></span>
+    <span class="label">Cart</span>
+    <span class="count">2</span>
+</a>
+
+<div id="header-cart" class="block block-cart skip-content">
+    
+<div id="minicart-error-message" class="minicart-message"></div>
+<div id="minicart-success-message" class="minicart-message"></div>
+
+<div class="minicart-wrapper">
+
+    <p class="block-subtitle">
+        Recently added item(s)        <a class="close skip-link-close" href="#" title="Close">×</a>
+    </p>
+
+                    <div>
+            <ul id="cart-sidebar" class="mini-products-list">
+                                    <li class="item odd" xmlns="http://www.w3.org/1999/html">
+            <a href="https://fasttrackit.org/selenium-test/madison-earbuds.html" title="Madison Earbuds" class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/h/d/hde010_1.jpg" width="50" height="50" alt="Madison Earbuds" /></a>
+        <div class="product-details">
+        <p class="product-name"><a href="https://fasttrackit.org/selenium-test/madison-earbuds.html">Madison Earbuds</a></p>
+
+        <table class="info-wrapper">
+            <tbody>
+                <tr>
+                    <th>Price</th>
+                    <td>
+                        
+                                                                                                                                <span class="price">35,00 RON</span>                                                                                            
+
+
+                            
+                                            </td>
+                </tr>
+                <tr class="qty-wrapper">
+                    <th>Qty</th>
+                    <td>
+                        <input id="qinput-5061" data-link="https://fasttrackit.org/selenium-test/checkout/cart/ajaxUpdate/id/5061/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" data-item-id="5061" data-cart-item-id="hde010" class="qty cart-item-quantity input-text" name="" value="1" />
+
+                        <button id="qbutton-5061" data-item-id="5061" disabled="disabled" data-update="" data-cart-item-update="" class="button quantity-button">
+                            ok                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+                <a href="https://fasttrackit.org/selenium-test/checkout/cart/configure/id/5061/" title="Edit item" class="btn-edit">
+            Edit item        </a>
+            |
+                            <a href="https://fasttrackit.org/selenium-test/checkout/cart/ajaxDelete/id/5061/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" title="Remove This Item" data-confirm="Are you sure you would like to remove this item from the shopping cart?" class="remove">
+                    Remove Item                </a>
+                    
+
+
+        
+    </div>
+</li>
+                                    <li class="item last even" xmlns="http://www.w3.org/1999/html">
+            <a href="https://fasttrackit.org/selenium-test/camera-travel-set.html" title="Camera Travel Set" class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/h/d/hde001t_1.jpg" width="50" height="50" alt="Camera Travel Set" /></a>
+        <div class="product-details">
+        <p class="product-name"><a href="https://fasttrackit.org/selenium-test/camera-travel-set.html">Camera Travel Set</a></p>
+
+        <table class="info-wrapper">
+            <tbody>
+                <tr>
+                    <th>Price</th>
+                    <td>
+                        
+                                                                                                                                <span class="price">650,00 RON</span>                                                                                            
+
+
+                            
+                                            </td>
+                </tr>
+                <tr class="qty-wrapper">
+                    <th>Qty</th>
+                    <td>
+                        <input id="qinput-5038" data-link="https://fasttrackit.org/selenium-test/checkout/cart/ajaxUpdate/id/5038/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" data-item-id="5038" data-cart-item-id="hde009-hde001-hde006-hde004-hde007" class="qty cart-item-quantity input-text" name="" value="1" />
+
+                        <button id="qbutton-5038" data-item-id="5038" disabled="disabled" data-update="" data-cart-item-update="" class="button quantity-button">
+                            ok                        </button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+                <a href="https://fasttrackit.org/selenium-test/checkout/cart/configure/id/5038/" title="Edit item" class="btn-edit">
+            Edit item        </a>
+            |
+                            <a href="https://fasttrackit.org/selenium-test/checkout/cart/ajaxDelete/id/5038/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" title="Remove This Item" data-confirm="Are you sure you would like to remove this item from the shopping cart?" class="remove">
+                    Remove Item                </a>
+                    
+
+
+        
+    </div>
+</li>
+                            </ul>
+        </div>
+        <script type="text/javascript">
+            truncateOptions();
+            decorateList('cart-sidebar', 'none-recursive');
+            $j('document').ready(function() {
+                var minicartOptions  = {
+                    formKey:           "60AYKXJ5MjdekqYH"
+                }
+                var Mini = new Minicart(minicartOptions);
+                Mini.init();
+            });
+        </script>
+
+        <div id="minicart-widgets">
+                    </div>
+        <div class="block-content">
+            <p class="subtotal">
+                                    <span class="label">Cart Subtotal:</span> <span class="price">685,00 RON</span>                                                </p>
+        </div>
+
+
+        <div class="minicart-actions">
+                            <ul class="checkout-types minicart">
+                                        <li>
+                        <a title="Checkout" class="button checkout-button" href="https://fasttrackit.org/selenium-test/checkout/onepage/">
+                            Checkout                        </a>
+                    </li>
+                </ul>
+                        <a class="cart-link" href="https://fasttrackit.org/selenium-test/checkout/cart/">
+                View Shopping Cart            </a>
+        </div>
+
+    </div>
+</div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- Navigation -->
+
+        <div id="header-nav" class="skip-content">
+            
+    <nav id="nav">
+        <ol class="nav-primary">
+            <li class="level0 nav-1 first parent"><a href="https://fasttrackit.org/selenium-test/women.html" class="level0 has-children">Women</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/women.html">View All Women</a></li><li class="level1 nav-1-1 first"><a href="https://fasttrackit.org/selenium-test/women/new-arrivals.html" class="level1 ">New Arrivals</a></li><li class="level1 nav-1-2"><a href="https://fasttrackit.org/selenium-test/women/tops-blouses.html" class="level1 ">Tops &amp; Blouses</a></li><li class="level1 nav-1-3"><a href="https://fasttrackit.org/selenium-test/women/pants-denim.html" class="level1 ">Pants &amp; Denim</a></li><li class="level1 nav-1-4 last"><a href="https://fasttrackit.org/selenium-test/women/dresses-skirts.html" class="level1 ">Dresses &amp; Skirts</a></li></ul></li><li class="level0 nav-2 parent"><a href="https://fasttrackit.org/selenium-test/men.html" class="level0 has-children">Men</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/men.html">View All Men</a></li><li class="level1 nav-2-1 first"><a href="https://fasttrackit.org/selenium-test/men/new-arrivals.html" class="level1 ">New Arrivals</a></li><li class="level1 nav-2-2"><a href="https://fasttrackit.org/selenium-test/men/shirts.html" class="level1 ">Shirts</a></li><li class="level1 nav-2-3"><a href="https://fasttrackit.org/selenium-test/men/tees-knits-and-polos.html" class="level1 ">Tees, Knits and Polos</a></li><li class="level1 nav-2-4"><a href="https://fasttrackit.org/selenium-test/men/pants-denim.html" class="level1 ">Pants &amp; Denim</a></li><li class="level1 nav-2-5 last"><a href="https://fasttrackit.org/selenium-test/men/blazers.html" class="level1 ">Blazers</a></li></ul></li><li class="level0 nav-3 parent"><a href="https://fasttrackit.org/selenium-test/accessories.html" class="level0 has-children">Accessories</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/accessories.html">View All Accessories</a></li><li class="level1 nav-3-1 first"><a href="https://fasttrackit.org/selenium-test/accessories/eyewear.html" class="level1 ">Eyewear</a></li><li class="level1 nav-3-2"><a href="https://fasttrackit.org/selenium-test/accessories/jewelry.html" class="level1 ">Jewelry</a></li><li class="level1 nav-3-3"><a href="https://fasttrackit.org/selenium-test/accessories/shoes.html" class="level1 ">Shoes</a></li><li class="level1 nav-3-4 last"><a href="https://fasttrackit.org/selenium-test/accessories/bags-luggage.html" class="level1 ">Bags &amp; Luggage</a></li></ul></li><li class="level0 nav-4 parent"><a href="https://fasttrackit.org/selenium-test/home-decor.html" class="level0 has-children">Home &amp; Decor</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/home-decor.html">View All Home &amp; Decor</a></li><li class="level1 nav-4-1 first"><a href="https://fasttrackit.org/selenium-test/home-decor/books-music.html" class="level1 ">Books &amp; Music</a></li><li class="level1 nav-4-2"><a href="https://fasttrackit.org/selenium-test/home-decor/bed-bath.html" class="level1 ">Bed &amp; Bath</a></li><li class="level1 nav-4-3"><a href="https://fasttrackit.org/selenium-test/home-decor/electronics.html" class="level1 ">Electronics</a></li><li class="level1 nav-4-4 last"><a href="https://fasttrackit.org/selenium-test/home-decor/decorative-accents.html" class="level1 ">Decorative Accents</a></li></ul></li><li class="level0 nav-5 parent"><a href="https://fasttrackit.org/selenium-test/sale.html" class="level0 has-children">Sale</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/sale.html">View All Sale</a></li><li class="level1 nav-5-1 first"><a href="https://fasttrackit.org/selenium-test/sale/women.html" class="level1 ">Women</a></li><li class="level1 nav-5-2"><a href="https://fasttrackit.org/selenium-test/sale/men.html" class="level1 ">Men</a></li><li class="level1 nav-5-3"><a href="https://fasttrackit.org/selenium-test/sale/accessories.html" class="level1 ">Accessories</a></li><li class="level1 nav-5-4 last"><a href="https://fasttrackit.org/selenium-test/sale/home-decor.html" class="level1 ">Home &amp; Decor</a></li></ul></li><li class="level0 nav-6 last"><a href="https://fasttrackit.org/selenium-test/vip.html" class="level0 ">VIP</a></li>        </ol>
+    </nav>
+        </div>
+
+        <!-- Search -->
+
+        <div id="header-search" class="skip-content">
+            
+<form id="search_mini_form" action="https://fasttrackit.org/selenium-test/catalogsearch/result/" method="get">
+    <div class="input-box">
+        <label for="search">Search:</label>
+        <input id="search" type="search" name="q" value="a" class="input-text required-entry" maxlength="128" placeholder="Search entire store here..." autocomplete="off" />
+        <button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
+    </div>
+
+    <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
+    <script type="text/javascript">
+    //&lt;![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('https://fasttrackit.org/selenium-test/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]&gt;
+    </script>
+</form>
+        </div>
+
+        <!-- Account -->
+
+        <div id="header-account" class="skip-content">
+            <div class="links">
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/customer/account/" title="My Account">My Account</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/wishlist/" title="My Wishlist">My Wishlist</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/checkout/cart/" title="My Cart (2 items)" class="top-link-cart">My Cart (2 items)</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+                                                <li class=" last"><a href="https://fasttrackit.org/selenium-test/customer/account/logout/" title="Log Out">Log Out</a></li>
+                        </ul>
+</div>
+        </div>
+    </div>
+</header>
+
+
+        <div class="main-container col3-layout">
+            <div class="main">
+                <div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="https://fasttrackit.org/selenium-test/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="search">
+                            <strong>Search results for: 'a'</strong>
+                                    </li>
+            </ul>
+</div>
+                <div class="col-wrapper">
+                                                                <div class="col-left sidebar col-left-first"><div class="block block-layered-nav block-layered-nav--no-filters">
+    <div class="block-title">
+        <strong><span>Shop By</span></strong>
+    </div>
+    <div class="block-content toggle-content">
+                                    <p class="block-subtitle block-subtitle--filter">Filter</p>
+            <dl id="narrow-by-list">
+                                                                    <dt class="last odd">Category</dt>
+                    <dd class="last odd">
+<ol>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=4&amp;limit=12&amp;q=a">
+                Women                                <span class="count">(11)</span>
+                            </a>
+            </li>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=5&amp;limit=12&amp;q=a">
+                Men                                <span class="count">(16)</span>
+                            </a>
+            </li>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=6&amp;limit=12&amp;q=a">
+                Accessories                                <span class="count">(20)</span>
+                            </a>
+            </li>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=7&amp;limit=12&amp;q=a">
+                Home &amp; Decor                                <span class="count">(33)</span>
+                            </a>
+            </li>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=8&amp;limit=12&amp;q=a">
+                Sale                                <span class="count">(3)</span>
+                            </a>
+            </li>
+    <li>
+                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?cat=9&amp;limit=12&amp;q=a">
+                VIP                                <span class="count">(8)</span>
+                            </a>
+            </li>
+</ol>
+</dd>
+                                            </dl>
+            <script type="text/javascript">decorateDataList('narrow-by-list')</script>
+            </div>
+</div>
+</div>
+                                        <div class="col-main">
+                                                <div id="map-popup" class="map-popup" style="display:none;">
+    <a href="#" class="map-popup-close" id="map-popup-close">×</a>
+    <div class="map-popup-heading"><h3 id="map-popup-heading"></h3></div>
+    <div class="map-popup-content" id="map-popup-content">
+        <div class="map-popup-msrp" id="map-popup-msrp-box">
+            <span class="label">Price:</span>
+            <span style="text-decoration:line-through;" id="map-popup-msrp"></span>
+        </div>
+        <div class="map-popup-price" id="map-popup-price-box">
+            <span class="label">Actual Price:</span>
+            <span id="map-popup-price"></span>
+        </div>
+        <div class="map-popup-checkout">
+            <form action="" method="POST" id="product_addtocart_form_from_popup">
+                <input type="hidden" name="product" class="product_id" value="" id="map-popup-product-id" />
+                <div class="additional-addtocart-box">
+                                    </div>
+                <button type="button" title="Add to Cart" class="button btn-cart" id="map-popup-button"><span><span>Add to Cart</span></span></button>
+            </form>
+        </div>
+        <script type="text/javascript">
+        //&lt;![CDATA[
+            document.observe("dom:loaded", Catalog.Map.bindProductForm);
+        //]]&gt;
+        </script>
+    </div>
+    <div class="map-popup-text" id="map-popup-text">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+    <div class="map-popup-text" id="map-popup-text-what-this">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+</div>
+<div class="page-title">
+        <h1>Search results for 'a'</h1>
+</div>
+        <div class="category-products">
+    <div class="toolbar">
+            <div class="sorter">
+                            <p class="view-mode">
+                                                                <label>View as</label>
+                                                                                    <strong title="Grid" class="grid">Grid</strong>
+                                                                                                                <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;mode=list&amp;q=a" title="List" class="list">List</a>
+                                                                                        </p>
+            
+            <div class="sort-by">
+                <label>Sort By</label>
+                <select onchange="setLocation(this.value)" title="Sort By">
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=relevance&amp;q=a" selected="selected">
+                            Relevance                        </option>
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=name&amp;q=a">
+                            Name                        </option>
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=price&amp;q=a">
+                            Price                        </option>
+                                    </select>
+                                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=relevance&amp;q=a" class="sort-by-switcher sort-by-switcher--desc" title="Set Ascending Direction">Set Ascending Direction</a>
+                            </div>
+        </div>
+        <div class="pager">
+        <div class="count-container">
+                            <p class="amount amount--has-pages">
+                    61-72 of 80                </p>
+            
+            <div class="limiter">
+                <label>Show</label>
+                <select onchange="setLocation(this.value)" title="Results per page">
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;q=a" selected="selected">
+                        12                    </option>
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=24&amp;q=a">
+                        24                    </option>
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=36&amp;q=a">
+                        36                    </option>
+                                </select>
+            </div>
+        </div>
+
+        
+    
+    
+        <div class="pages">
+        <strong>Page:</strong>
+        <ol>
+                    <li>
+                <a class="previous i-previous" href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=5&amp;q=a" title="Previous">
+                                            Previous                                    </a>
+            </li>
+        
+        
+        
+                                    <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=3&amp;q=a">3</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=4&amp;q=a">4</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=5&amp;q=a">5</a></li>
+                                                <li class="current">6</li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=7&amp;q=a">7</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next" href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=7&amp;q=a" title="Next">
+                                            Next                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+    
+
+    </div>
+</div>
+        
+    
+            <ul class="products-grid products-grid--max-3-col first last odd">
+                                <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/16gb-memory-card.html" title="16GB Memory Card" class="product-image">
+                                        <img id="product-collection-image-394" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hde004__1.jpg" alt="16GB Memory Card" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 192px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/16gb-memory-card.html" title="16GB Memory Card">16GB Memory Card</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-394">
+                                            <span class="price">30,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/394/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/394/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/394/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/madison-rx3400.html" title="Madison RX3400" class="product-image">
+                                        <img id="product-collection-image-393" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hde003a_2.jpg" alt="Madison RX3400" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 192px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/madison-rx3400.html" title="Madison RX3400">Madison RX3400</a></h2>
+                                        
+    <div class="price-box map-info">
+                                    <span class="old-price" id="product-price-393"><span class="price">815,00 RON</span></span>
+                        <a href="#" class="map-link" id="msrp-click-393ECk21Mp1UctwCop8MuDq">Click for price</a>
+        <script type="text/javascript">
+                            Catalog.Map.addHelpLink(
+                        $('msrp-click-393ECk21Mp1UctwCop8MuDq'),
+                        "Madison RX3400",
+                        null,
+                        null,
+                        "https://fasttrackit.org/selenium-test/madison-rx3400.html"
+                );
+            
+        </script>
+    </div>
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/393/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/393/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/393/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/madison-lx2200.html" title="Madison LX2200" class="product-image">
+                                        <img id="product-collection-image-392" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hde001t_2.jpg" alt="Madison LX2200" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 192px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/madison-lx2200.html" title="Madison LX2200">Madison LX2200</a></h2>
+                                        
+    <div class="price-box map-info">
+                                    <span class="old-price" id="product-price-392"><span class="price">400,00 RON</span></span>
+                        <a href="#" class="map-link" id="msrp-click-392YDRYzYyJSTJ18YfnkA4I">Click for price</a>
+        <script type="text/javascript">
+                            var newLink = Catalog.Map.addHelpLink(
+                        $('msrp-click-392YDRYzYyJSTJ18YfnkA4I'),
+                        "Madison LX2200",
+                        "\n\n                        \n    &lt;div class=\"price-box\"&gt;\n                                                                &lt;span class=\"regular-price\" id=\"product-price-392\"&gt;\n                                            &lt;span class=\"price\"&gt;425,00\u00a0RON&lt;\/span&gt;                                    &lt;\/span&gt;\n                        \n        &lt;\/div&gt;\n\n",
+                        '&lt;span class="price"&gt;400,00 RON&lt;/span&gt;',
+                        "https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/392/form_key/60AYKXJ5MjdekqYH/"
+                );
+                newLink.product_id = '392';
+            
+        </script>
+    </div>
+                                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:82%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://fasttrackit.org/selenium-test/review/product/list/id/392/'; return false;">3 Review(s)</a></span>
+    </div>
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/392/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/392/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/392/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/geometric-candle-holders.html" title="Geometric Candle Holders" class="product-image">
+                                        <img id="product-collection-image-391" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdd006_1.jpg" alt="Geometric Candle Holders" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/geometric-candle-holders.html" title="Geometric Candle Holders">Geometric Candle Holders</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-391">
+                    90,00 RON                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-391">
+                    45,00 RON                </span>
+                </p>
+                    
+    
+        </div>
+
+                                            <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:60%"></div>
+            </div>
+                <span class="amount"><a href="#" onclick="var t = opener ? opener.window : window; t.location.href='https://fasttrackit.org/selenium-test/review/product/list/id/391/'; return false;">1 Review(s)</a></span>
+    </div>
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/391/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/391/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/391/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/fragrance-diffuser-reeds.html" title="Fragrance Diffuser Reeds" class="product-image">
+                                        <img id="product-collection-image-390" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdd005_1.jpg" alt="Fragrance Diffuser Reeds" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/fragrance-diffuser-reeds.html" title="Fragrance Diffuser Reeds">Fragrance Diffuser Reeds</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-390">
+                                            <span class="price">75,00 RON</span>                                    </span>
+                        
+    
+                
+                    <a href="https://fasttrackit.org/selenium-test/fragrance-diffuser-reeds.html" class="minimal-price-link">
+                <span class="label">As low as:</span>
+        <span class="price" id="product-minimal-price-390">
+                65,00 RON            </span>
+                    </a>
+                </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/390/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/390/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/390/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/stone-salt-and-pepper-shakers.html" title="Stone Salt and Pepper Shakers" class="product-image">
+                                        <img id="product-collection-image-389" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdd004_1.jpg" alt="Stone Salt and Pepper Shakers" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/stone-salt-and-pepper-shakers.html" title="Stone Salt and Pepper Shakers">Stone Salt and Pepper Shakers</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-389">
+                                            <span class="price">65,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/389/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/389/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/389/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/gramercy-throw.html" title="Gramercy Throw" class="product-image">
+                                        <img id="product-collection-image-385" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb009_1.jpg" alt="Gramercy Throw" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/gramercy-throw.html" title="Gramercy Throw">Gramercy Throw</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-385">
+                                            <span class="price">275,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/385/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/385/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/385/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/park-row-throw.html" title="Park Row Throw" class="product-image">
+                                        <img id="product-collection-image-384" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb008_1.jpg" alt="Park Row Throw" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/park-row-throw.html" title="Park Row Throw">Park Row Throw</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                            
+                    <p class="old-price">
+                <span class="price-label">Regular Price:</span>
+                <span class="price" id="old-price-384">
+                    240,00 RON                </span>
+            </p>
+
+                            <p class="special-price">
+                    <span class="price-label">Special Price</span>
+                <span class="price" id="product-price-384">
+                    120,00 RON                </span>
+                </p>
+                    
+    
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/384/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/384/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/384/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/carnegie-alpaca-throw.html" title="Carnegie Alpaca Throw" class="product-image">
+                                        <img id="product-collection-image-383" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb007_1.jpg" alt="Carnegie Alpaca Throw" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/carnegie-alpaca-throw.html" title="Carnegie Alpaca Throw">Carnegie Alpaca Throw</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-383">
+                                            <span class="price">275,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/383/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/383/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/383/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/shay-printed-pillow.html" title="Shay Printed Pillow" class="product-image">
+                                        <img id="product-collection-image-382" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb006_1.jpg" alt="Shay Printed Pillow" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/shay-printed-pillow.html" title="Shay Printed Pillow">Shay Printed Pillow</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-382">
+                                            <span class="price">210,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/382/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/382/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/382/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/titian-raw-silk-pillow.html" title="Titian Raw Silk Pillow" class="product-image">
+                                        <img id="product-collection-image-381" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb005_1.jpg" alt="Titian Raw Silk Pillow" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/titian-raw-silk-pillow.html" title="Titian Raw Silk Pillow">Titian Raw Silk Pillow</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-381">
+                                            <span class="price">125,00 RON</span>                                    </span>
+                        
+    
+                
+                    <a href="https://fasttrackit.org/selenium-test/titian-raw-silk-pillow.html" class="minimal-price-link">
+                <span class="label">As low as:</span>
+        <span class="price" id="product-minimal-price-381">
+                100,00 RON            </span>
+                    </a>
+                </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/381/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/381/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/381/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                                            <li class="item last">
+                <a href="https://fasttrackit.org/selenium-test/shea-enfused-hydrating-body-lotion.html" title="Shea Enfused Hydrating Body Lotion" class="product-image">
+                                        <img id="product-collection-image-380" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/small_image/210x/9df78eab33525d08d6e5fb8d27136e95/h/d/hdb002_1.jpg" alt="Shea Enfused Hydrating Body Lotion" />
+                </a>
+                <div class="product-info" style="padding-bottom: 88px; min-height: 175px;">
+                    <h2 class="product-name"><a href="https://fasttrackit.org/selenium-test/shea-enfused-hydrating-body-lotion.html" title="Shea Enfused Hydrating Body Lotion">Shea Enfused Hydrating Body Lotion</a></h2>
+                                        
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-380">
+                                            <span class="price">28,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        <div class="actions">
+                                                    <button type="button" title="Add to Cart" class="button btn-cart" onclick="setLocation('https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/product/380/form_key/60AYKXJ5MjdekqYH/')"><span><span>Add to Cart</span></span></button>
+                                                <ul class="add-to-links">
+                                                            <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/380/form_key/60AYKXJ5MjdekqYH/" class="link-wishlist">Add to Wishlist</a></li>
+                                                                                        <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/380/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/form_key/60AYKXJ5MjdekqYH/" class="link-compare">Add to Compare</a></li>
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+                        </ul>
+    <script type="text/javascript">decorateGeneric($$('ul.products-grid'), ['odd','even','first','last'])</script>
+    
+    <div class="toolbar-bottom">
+        <div class="toolbar">
+            <div class="sorter">
+                            <p class="view-mode">
+                                                                <label>View as</label>
+                                                                                    <strong title="Grid" class="grid">Grid</strong>
+                                                                                                                <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;mode=list&amp;q=a" title="List" class="list">List</a>
+                                                                                        </p>
+            
+            <div class="sort-by">
+                <label>Sort By</label>
+                <select onchange="setLocation(this.value)" title="Sort By">
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=relevance&amp;q=a" selected="selected">
+                            Relevance                        </option>
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=name&amp;q=a">
+                            Name                        </option>
+                                            <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=price&amp;q=a">
+                            Price                        </option>
+                                    </select>
+                                    <a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?dir=asc&amp;limit=12&amp;order=relevance&amp;q=a" class="sort-by-switcher sort-by-switcher--desc" title="Set Ascending Direction">Set Ascending Direction</a>
+                            </div>
+        </div>
+        <div class="pager">
+        <div class="count-container">
+                            <p class="amount amount--has-pages">
+                    61-72 of 80                </p>
+            
+            <div class="limiter">
+                <label>Show</label>
+                <select onchange="setLocation(this.value)" title="Results per page">
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;q=a" selected="selected">
+                        12                    </option>
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=24&amp;q=a">
+                        24                    </option>
+                                    <option value="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=36&amp;q=a">
+                        36                    </option>
+                                </select>
+            </div>
+        </div>
+
+        
+    
+    
+        <div class="pages">
+        <strong>Page:</strong>
+        <ol>
+                    <li>
+                <a class="previous i-previous" href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=5&amp;q=a" title="Previous">
+                                            Previous                                    </a>
+            </li>
+        
+        
+        
+                                    <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=3&amp;q=a">3</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=4&amp;q=a">4</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=5&amp;q=a">5</a></li>
+                                                <li class="current">6</li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=7&amp;q=a">7</a></li>
+                    
+
+        
+        
+                    <li>
+                <a class="next i-next" href="https://fasttrackit.org/selenium-test/catalogsearch/result/index/?limit=12&amp;p=7&amp;q=a" title="Next">
+                                            Next                                    </a>
+            </li>
+                </ol>
+
+    </div>
+    
+    
+
+    </div>
+</div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $j(document).on('product-media-loaded', function() {
+        ConfigurableMediaImages.init('small_image');
+                ConfigurableMediaImages.setImageFallback(394, $j.parseJSON('{"option_labels":[],"small_image":{"394":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hde004__1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(393, $j.parseJSON('{"option_labels":[],"small_image":{"393":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hde003a_2.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(392, $j.parseJSON('{"option_labels":[],"small_image":{"392":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hde001t_2.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(391, $j.parseJSON('{"option_labels":[],"small_image":{"391":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdd006_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(390, $j.parseJSON('{"option_labels":[],"small_image":{"390":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdd005_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(389, $j.parseJSON('{"option_labels":[],"small_image":{"389":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdd004_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(385, $j.parseJSON('{"option_labels":[],"small_image":{"385":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb009_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(384, $j.parseJSON('{"option_labels":[],"small_image":{"384":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb008_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(383, $j.parseJSON('{"option_labels":[],"small_image":{"383":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb007_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(382, $j.parseJSON('{"option_labels":[],"small_image":{"382":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb006_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(381, $j.parseJSON('{"option_labels":[],"small_image":{"381":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb005_1.jpg"},"base_image":[]}'));
+                ConfigurableMediaImages.setImageFallback(380, $j.parseJSON('{"option_labels":[],"small_image":{"380":"https:\/\/fasttrackit.org\/selenium-test\/media\/catalog\/product\/cache\/1\/small_image\/210x\/602f0fa2c1f0d1ba5e241f914e856ff9\/h\/d\/hdb002_1.jpg"},"base_image":[]}'));
+                $j(document).trigger('configurable-media-images-init', ConfigurableMediaImages);
+    });
+</script>
+                    </div>
+                    <div class="col-left sidebar"></div>
+                </div>
+                <div class="col-right sidebar"><div class="block block-list block-viewed">
+    <div class="block-title">
+        <strong><span>Recently Viewed Products</span></strong>
+    </div>
+    <div class="block-content">
+        <ol id="recently-viewed-items" class="mini-products-list">
+                    <li class="item odd">
+                <a href="https://fasttrackit.org/selenium-test/if-you-were-by-keshco.html">
+                    <span class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/k/e/keshco_.jpg" width="50" height="50" alt="" /></span>
+                </a>
+                <div class="product-details">
+                    <p class="product-name">
+                        <a href="https://fasttrackit.org/selenium-test/if-you-were-by-keshco.html">
+                            If You Were by Keshco                        </a>
+                    </p>
+                </div>
+            </li>
+                    <li class="item even">
+                <a href="https://fasttrackit.org/selenium-test/madison-earbuds.html">
+                    <span class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/h/d/hde010_1.jpg" width="50" height="50" alt="" /></span>
+                </a>
+                <div class="product-details">
+                    <p class="product-name">
+                        <a href="https://fasttrackit.org/selenium-test/madison-earbuds.html">
+                            Madison Earbuds                        </a>
+                    </p>
+                </div>
+            </li>
+                    <li class="item odd">
+                <a href="https://fasttrackit.org/selenium-test/chelsea-tee-701.html">
+                    <span class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/m/t/mtk000t.jpg" width="50" height="50" alt="" /></span>
+                </a>
+                <div class="product-details">
+                    <p class="product-name">
+                        <a href="https://fasttrackit.org/selenium-test/chelsea-tee-701.html">
+                            Chelsea Tee                        </a>
+                    </p>
+                </div>
+            </li>
+                    <li class="item last even">
+                <a href="https://fasttrackit.org/selenium-test/pearl-necklace-set-test.html">
+                    <span class="product-image"><img src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/thumbnail/50x50/9df78eab33525d08d6e5fb8d27136e95/a/c/acj007_1_2.jpg" width="50" height="50" alt="" /></span>
+                </a>
+                <div class="product-details">
+                    <p class="product-name">
+                        <a href="https://fasttrackit.org/selenium-test/pearl-necklace-set-test.html">
+                            Pearl Necklace Set                        </a>
+                    </p>
+                </div>
+            </li>
+                </ol>
+        <script type="text/javascript">decorateList('recently-viewed-items');</script>
+    </div>
+</div>
+<div class="block block-list block-compare">
+    <div class="block-title">
+        <strong><span>Compare Products                            <small>(1)</small>
+                    </span></strong>
+    </div>
+    <div class="block-content">
+            <ol id="compare-items">
+                    <li class="item last odd">
+                <input type="hidden" class="compare-item-id" value="410" />
+                <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/remove/product/410/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" title="Remove This Item" class="btn-remove" onclick="return confirm('Are you sure you would like to remove this item from the compare products?');">Remove This Item</a>
+                <p class="product-name"><a href="https://fasttrackit.org/selenium-test/chelsea-tee-703.html">Chelsea Tee</a></p>
+            </li>
+                </ol>
+        <script type="text/javascript">decorateList('compare-items')</script>
+        <div class="actions">
+            <button type="button" title="Compare" class="button" onclick="popWin('https://fasttrackit.org/selenium-test/catalog/product_compare/index/items/410/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes')"><span><span>Compare</span></span></button>
+            <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/clear/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9jYXRhbG9nc2VhcmNoL3Jlc3VsdC9pbmRleC8_bGltaXQ9MTImYW1wO3A9NiZhbXA7cT1h/" onclick="return confirm('Are you sure you would like to remove all products from your comparison?');">Clear All</a>
+        </div>
+        </div>
+</div>
+</div>
+            </div>
+        </div>
+                <div class="footer-container">
+    <div class="footer">
+        <div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="https://fasttrackit.org/selenium-test/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign Up for Our Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //&lt;![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]&gt;
+    </script>
+</div>
+<div class="links">
+	<div class="block-title">
+		<strong><span>Company</span></strong>
+	</div>
+	<ul>
+		<li><a href="https://fasttrackit.org/selenium-test/about-magento-demo-store/">About Us</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/contacts/">Contact Us</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/customer-service/">Customer Service</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+	</ul>
+</div><div class="links">
+        <div class="block-title"><strong><span>Quick Links</span></strong></div>
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
+                                                <li class=" last"><a href="https://fasttrackit.org/selenium-test/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
+                        </ul>
+</div>
+<div class="links">
+        <div class="block-title"><strong><span>Account</span></strong></div>
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/customer/account/" title="My Account">My Account</a></li>
+                                                                        </ul>
+</div>
+<div class="links social-media">
+	<div class="block-title">
+		<strong><span>Connect With Us</span></strong>
+	</div>
+	<ul>
+		<li><a href="#"><em class="facebook"></em>Facebook</a></li>
+		<li><a href="#"><em class="twitter"></em>Twitter</a></li>
+		<li><a href="#"><em class="youtube"></em>YouTube</a></li>
+		<li><a href="#"><em class="pinterest"></em>Pinterest</a></li>
+		<li class="last"><a href="#"><em class="rss"></em>RSS</a></li>
+	</ul>
+</div>        <address class="copyright">© 2014 Madison Island. All Rights Reserved.</address>
+    </div>
+</div>
+                
+
+    </div>
+</div>
+
+
+</body></html>

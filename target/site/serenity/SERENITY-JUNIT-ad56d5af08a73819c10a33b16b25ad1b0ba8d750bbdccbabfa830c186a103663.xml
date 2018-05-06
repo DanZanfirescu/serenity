@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.fast.cosmin.features.search.LoginSearchRandomTest" skipped="0" tests="1" time="0.0" timestamp="2018-04-10T18:00:46.219805700+03:00[Europe/Athens]"><testcase classname="com.fast.cosmin.features.search.LoginSearchRandomTest" name="Initialisation"><error type="java.lang.StackOverflowError"/><system-err>null&#13;
+</system-err></testcase></testsuite>

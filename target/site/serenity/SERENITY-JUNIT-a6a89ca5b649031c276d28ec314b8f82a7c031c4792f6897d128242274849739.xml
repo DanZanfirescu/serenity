@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.fast.cosmin.features.search.LoginTest" skipped="0" tests="1" time="7.26" timestamp="2018-03-23T12:08:24.904298100+02:00[Europe/Athens]"><testcase classname="com.fast.cosmin.features.search.LoginTest" name="Check login with invalid credentials"/></testsuite>

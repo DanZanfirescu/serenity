@@ -1,0 +1,1057 @@
+<!DOCTYPE html><!--[if lt IE 7 ]> <html lang="ro" id="top" class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html lang="ro" id="top" class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html lang="ro" id="top" class="no-js ie8"> <![endif]--><!--[if IE 9 ]>    <html lang="ro" id="top" class="no-js ie9"> <![endif]--><!--[if (gt IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ro" id="top" class=" js no-touch localstorage no-ios" style=""><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Isla Crossbody Handbag</title>
+<meta name="description" content="Pebbled leather. Contrast stitching. Fold over flap with Fasten closure. Crossbody strap. 6&quot; x 8&quot; x 0.75&quot;." />
+<meta name="keywords" content="Magento, Varien, E-commerce" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="icon" href="https://fasttrackit.org/selenium-test/skin/frontend/base/default/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://fasttrackit.org/selenium-test/skin/frontend/base/default/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://fasttrackit.org/selenium-test/js/blank.html';
+    var BLANK_IMG = 'https://fasttrackit.org/selenium-test/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/js/calendar/calendar-win2k-1.css" />
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/jquery/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/jquery/noconflict.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/js.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/form.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/product.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/product_options.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/configurable.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/js/varien/weee.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/modernizr.custom.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/selectivizr.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/matchMedia.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/enquire.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/app.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/jquery.cycle2.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/jquery.cycle2.swipe.min.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/slideshow.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/imagesloaded.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/minicart.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/base/default/js/msrp.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/msrp_rwd.js"></script>
+<script type="text/javascript" src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/js/lib/elevatezoom/jquery.elevateZoom-3.0.8.min.js"></script>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,700,600" />
+<link rel="canonical" href="https://fasttrackit.org/selenium-test/isla-crossbody-handbag.html" />
+<!--[if  (lte IE 8) & (!IEMobile)]>
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/styles-ie8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/madisonisland-ie8.css" media="all" />
+<![endif]-->
+<!--[if (gte IE 9) | (IEMobile)]><!-->
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/css/madisonisland.css" media="all" />
+<!--<![endif]-->
+
+<script type="text/javascript">
+//&lt;![CDATA[
+Mage.Cookies.path     = '/selenium-test';
+Mage.Cookies.domain   = '.fasttrackit.org';
+//]]&gt;
+</script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+
+<script type="text/javascript">
+//&lt;![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]&gt;
+</script>
+<script type="text/javascript">//&lt;![CDATA[
+        var Translator = new Translate([]);
+        //]]&gt;</script></head>
+<body class=" catalog-product-view catalog-product-view product-isla-crossbody-handbag">
+<div class="wrapper">
+        <noscript>
+        &lt;div class="global-site-notice noscript"&gt;
+            &lt;div class="notice-inner"&gt;
+                &lt;p&gt;
+                    &lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;&lt;br /&gt;
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    </noscript>
+    <div class="global-site-notice demo-notice">
+        <div class="notice-inner"><p>This is a demo store. Any orders placed through this store will not be honored or fulfilled.</p></div>
+    </div>
+    <div class="page">
+        
+<div class="header-language-background">
+    <div class="header-language-container">
+        <div class="store-language-container">
+            <div class="form-language">
+    <label for="select-language">Your Language:</label>
+    <select id="select-language" title="Your Language" onchange="window.location.href=this.value">
+                    <option value="https://fasttrackit.org/selenium-test/isla-crossbody-handbag.html?___store=default&amp;___from_store=default" selected="selected">English</option>
+                    <option value="https://fasttrackit.org/selenium-test/isla-crossbody-handbag.html?___store=french&amp;___from_store=default">French</option>
+                    <option value="https://fasttrackit.org/selenium-test/isla-crossbody-handbag.html?___store=german&amp;___from_store=default">German</option>
+        </select>
+</div>
+        </div>
+
+        
+        <p class="welcome-msg">Welcome, Dan Danfirescu! </p>
+    </div>
+</div>
+
+<header id="header" class="page-header">
+    <div class="page-header-container">
+        <a class="logo" href="https://fasttrackit.org/selenium-test/">
+            <img src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/images/media/logo.png" alt="Madison Island" class="large" />
+            <img src="https://fasttrackit.org/selenium-test/skin/frontend/rwd/default/images/media/logo_small.png" alt="Madison Island" class="small" />
+        </a>
+
+                <div class="store-language-container"></div>
+
+        <!-- Skip Links -->
+
+        <div class="skip-links">
+            <a href="#header-nav" class="skip-link skip-nav">
+                <span class="icon"></span>
+                <span class="label">Menu</span>
+            </a>
+
+            <a href="#header-search" class="skip-link skip-search">
+                <span class="icon"></span>
+                <span class="label">Search</span>
+            </a>
+
+            <div class="account-cart-wrapper">
+                <a href="https://fasttrackit.org/selenium-test/customer/account/" data-target-element="#header-account" class="skip-link skip-account">
+                    <span class="icon"></span>
+                    <span class="label">Account</span>
+                </a>
+
+                <!-- Cart -->
+
+                <div class="header-minicart">
+                    
+
+<a href="https://fasttrackit.org/selenium-test/checkout/cart/" data-target-element="#header-cart" class="skip-link skip-cart  no-count">
+    <span class="icon"></span>
+    <span class="label">Cart</span>
+    <span class="count">0</span>
+</a>
+
+<div id="header-cart" class="block block-cart skip-content">
+    
+<div id="minicart-error-message" class="minicart-message"></div>
+<div id="minicart-success-message" class="minicart-message"></div>
+
+<div class="minicart-wrapper">
+
+    <p class="block-subtitle">
+        Recently added item(s)        <a class="close skip-link-close" href="#" title="Close">×</a>
+    </p>
+
+                    <p class="empty">You have no items in your shopping cart.</p>
+
+    </div>
+</div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- Navigation -->
+
+        <div id="header-nav" class="skip-content">
+            
+    <nav id="nav">
+        <ol class="nav-primary">
+            <li class="level0 nav-1 first parent"><a href="https://fasttrackit.org/selenium-test/women.html" class="level0 has-children">Women</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/women.html">View All Women</a></li><li class="level1 nav-1-1 first"><a href="https://fasttrackit.org/selenium-test/women/new-arrivals.html" class="level1 ">New Arrivals</a></li><li class="level1 nav-1-2"><a href="https://fasttrackit.org/selenium-test/women/tops-blouses.html" class="level1 ">Tops &amp; Blouses</a></li><li class="level1 nav-1-3"><a href="https://fasttrackit.org/selenium-test/women/pants-denim.html" class="level1 ">Pants &amp; Denim</a></li><li class="level1 nav-1-4 last"><a href="https://fasttrackit.org/selenium-test/women/dresses-skirts.html" class="level1 ">Dresses &amp; Skirts</a></li></ul></li><li class="level0 nav-2 parent"><a href="https://fasttrackit.org/selenium-test/men.html" class="level0 has-children">Men</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/men.html">View All Men</a></li><li class="level1 nav-2-1 first"><a href="https://fasttrackit.org/selenium-test/men/new-arrivals.html" class="level1 ">New Arrivals</a></li><li class="level1 nav-2-2"><a href="https://fasttrackit.org/selenium-test/men/shirts.html" class="level1 ">Shirts</a></li><li class="level1 nav-2-3"><a href="https://fasttrackit.org/selenium-test/men/tees-knits-and-polos.html" class="level1 ">Tees, Knits and Polos</a></li><li class="level1 nav-2-4"><a href="https://fasttrackit.org/selenium-test/men/pants-denim.html" class="level1 ">Pants &amp; Denim</a></li><li class="level1 nav-2-5 last"><a href="https://fasttrackit.org/selenium-test/men/blazers.html" class="level1 ">Blazers</a></li></ul></li><li class="level0 nav-3 parent"><a href="https://fasttrackit.org/selenium-test/accessories.html" class="level0 has-children">Accessories</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/accessories.html">View All Accessories</a></li><li class="level1 nav-3-1 first"><a href="https://fasttrackit.org/selenium-test/accessories/eyewear.html" class="level1 ">Eyewear</a></li><li class="level1 nav-3-2"><a href="https://fasttrackit.org/selenium-test/accessories/jewelry.html" class="level1 ">Jewelry</a></li><li class="level1 nav-3-3"><a href="https://fasttrackit.org/selenium-test/accessories/shoes.html" class="level1 ">Shoes</a></li><li class="level1 nav-3-4 last"><a href="https://fasttrackit.org/selenium-test/accessories/bags-luggage.html" class="level1 ">Bags &amp; Luggage</a></li></ul></li><li class="level0 nav-4 parent"><a href="https://fasttrackit.org/selenium-test/home-decor.html" class="level0 has-children">Home &amp; Decor</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/home-decor.html">View All Home &amp; Decor</a></li><li class="level1 nav-4-1 first"><a href="https://fasttrackit.org/selenium-test/home-decor/books-music.html" class="level1 ">Books &amp; Music</a></li><li class="level1 nav-4-2"><a href="https://fasttrackit.org/selenium-test/home-decor/bed-bath.html" class="level1 ">Bed &amp; Bath</a></li><li class="level1 nav-4-3"><a href="https://fasttrackit.org/selenium-test/home-decor/electronics.html" class="level1 ">Electronics</a></li><li class="level1 nav-4-4 last"><a href="https://fasttrackit.org/selenium-test/home-decor/decorative-accents.html" class="level1 ">Decorative Accents</a></li></ul></li><li class="level0 nav-5 parent"><a href="https://fasttrackit.org/selenium-test/sale.html" class="level0 has-children">Sale</a><ul class="level0"><li class="level1 view-all"><a class="level1" href="https://fasttrackit.org/selenium-test/sale.html">View All Sale</a></li><li class="level1 nav-5-1 first"><a href="https://fasttrackit.org/selenium-test/sale/women.html" class="level1 ">Women</a></li><li class="level1 nav-5-2"><a href="https://fasttrackit.org/selenium-test/sale/men.html" class="level1 ">Men</a></li><li class="level1 nav-5-3"><a href="https://fasttrackit.org/selenium-test/sale/accessories.html" class="level1 ">Accessories</a></li><li class="level1 nav-5-4 last"><a href="https://fasttrackit.org/selenium-test/sale/home-decor.html" class="level1 ">Home &amp; Decor</a></li></ul></li><li class="level0 nav-6 last"><a href="https://fasttrackit.org/selenium-test/vip.html" class="level0 ">VIP</a></li>        </ol>
+    </nav>
+        </div>
+
+        <!-- Search -->
+
+        <div id="header-search" class="skip-content">
+            
+<form id="search_mini_form" action="https://fasttrackit.org/selenium-test/catalogsearch/result/" method="get">
+    <div class="input-box">
+        <label for="search">Search:</label>
+        <input id="search" type="search" name="q" value="" class="input-text required-entry" maxlength="128" placeholder="Search entire store here..." autocomplete="off" />
+        <button type="submit" title="Search" class="button search-button"><span><span>Search</span></span></button>
+    </div>
+
+    <div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
+    <script type="text/javascript">
+    //&lt;![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('https://fasttrackit.org/selenium-test/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]&gt;
+    </script>
+</form>
+        </div>
+
+        <!-- Account -->
+
+        <div id="header-account" class="skip-content">
+            <div class="links">
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/customer/account/" title="My Account">My Account</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/wishlist/" title="My Wishlist">My Wishlist</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/checkout/cart/" title="My Cart" class="top-link-cart">My Cart</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+                                                <li class=" last"><a href="https://fasttrackit.org/selenium-test/customer/account/logout/" title="Log Out">Log Out</a></li>
+                        </ul>
+</div>
+        </div>
+    </div>
+</header>
+
+
+        <div class="main-container col1-layout">
+            <div class="main">
+                <div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="https://fasttrackit.org/selenium-test/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="product">
+                            <strong>Isla Crossbody Handbag</strong>
+                                    </li>
+            </ul>
+</div>
+                <div class="col-main">
+                                        <div id="map-popup" class="map-popup" style="display:none;">
+    <a href="#" class="map-popup-close" id="map-popup-close">×</a>
+    <div class="map-popup-heading"><h3 id="map-popup-heading"></h3></div>
+    <div class="map-popup-content" id="map-popup-content">
+        <div class="map-popup-msrp" id="map-popup-msrp-box">
+            <span class="label">Price:</span>
+            <span style="text-decoration:line-through;" id="map-popup-msrp"></span>
+        </div>
+        <div class="map-popup-price" id="map-popup-price-box">
+            <span class="label">Actual Price:</span>
+            <span id="map-popup-price"></span>
+        </div>
+        <div class="map-popup-checkout">
+            <form action="" method="POST" id="product_addtocart_form_from_popup">
+                <input type="hidden" name="product" class="product_id" value="" id="map-popup-product-id" />
+                <div class="additional-addtocart-box">
+                                    </div>
+                <button type="button" title="Add to Cart" class="button btn-cart" id="map-popup-button"><span><span>Add to Cart</span></span></button>
+            </form>
+        </div>
+        <script type="text/javascript">
+        //&lt;![CDATA[
+            document.observe("dom:loaded", Catalog.Map.bindProductForm);
+        //]]&gt;
+        </script>
+    </div>
+    <div class="map-popup-text" id="map-popup-text">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+    <div class="map-popup-text" id="map-popup-text-what-this">Our price is lower than the manufacturer's "minimum advertised price."  As a result, we cannot show you the price in catalog or the product page. <br /><br /> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.</div>
+</div>
+<script type="text/javascript">
+    var optionsPrice = new Product.OptionsPrice({"priceFormat":{"pattern":"%s\u00a0RON","precision":2,"requiredPrecision":2,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":1},"includeTax":"false","showIncludeTax":false,"showBothPrices":false,"idSuffix":"_clone","oldPlusDisposition":0,"plusDisposition":0,"plusDispositionTax":0,"oldMinusDisposition":0,"minusDisposition":0,"productId":"370","productPrice":290,"productOldPrice":290,"priceInclTax":290,"priceExclTax":290,"skipCalculate":1,"defaultTax":9,"currentTax":0,"tierPrices":[],"tierPricesInclTax":[],"swatchPrices":null});
+</script>
+<div id="messages_product_view"></div>
+<div class="product-view">
+    <div class="product-essential">
+        <form action="https://fasttrackit.org/selenium-test/checkout/cart/add/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9pc2xhLWNyb3NzYm9keS1oYW5kYmFnLmh0bWw_X19fU0lEPVU,/product/370/form_key/DROWJPpLyr7TgQSO/" method="post" id="product_addtocart_form" enctype="multipart/form-data">
+            <input name="form_key" type="hidden" value="DROWJPpLyr7TgQSO" />
+            <div class="no-display">
+                <input type="hidden" name="product" value="370" />
+                <input type="hidden" name="related_product" id="related-products-field" value="" />
+            </div>
+
+            <div class="product-img-box">
+                <div class="product-name">
+                    <h1>Isla Crossbody Handbag</h1>
+                </div>
+                <div class="product-image product-image-zoom zoom-available">
+    <div class="product-image-gallery">
+        <img id="image-main" class="gallery-image visible" src="https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abl000_4.jpg" alt="Isla Crossbody Handbag" title="Isla Crossbody Handbag" />
+
+            </div>
+</div>
+
+
+            </div>
+
+            <div class="product-shop">
+                <div class="product-name">
+                    <span class="h1">Isla Crossbody Handbag</span>
+                </div>
+
+                <div class="price-info">
+                    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-370">
+                                            <span class="price">290,00 RON</span>                                    </span>
+                        
+        </div>
+
+                                        
+                </div>
+
+                <div class="extra-info">
+                        <div class="ratings">
+                    <div class="rating-box">
+                <div class="rating" style="width:90%"></div>
+            </div>
+                <p class="rating-links">
+            <a href="https://fasttrackit.org/selenium-test/review/product/list/id/370/">4 Review(s)</a>
+            <span class="separator">|</span>
+            <a href="https://fasttrackit.org/selenium-test/review/product/list/id/370/#review-form">Add Your Review</a>
+        </p>
+    </div>
+                                <p class="availability in-stock">
+            <span class="label">Availability:</span>
+            <span class="value">In stock</span>
+        </p>
+                    </div>
+
+                
+                                    <div class="short-description">
+                        <div class="std">Form follows function with this decidedly chic mini bag. </div>
+                    </div>
+                
+
+
+
+                
+                                    <div class="product-options" id="product-options-wrapper">
+    <script type="text/javascript">
+//&lt;![CDATA[
+var DateOption = Class.create({
+
+    getDaysInMonth: function(month, year)
+    {
+        var curDate = new Date();
+        if (!month) {
+            month = curDate.getMonth();
+        }
+        if (2 == month &amp;&amp; !year) { // leap year assumption for unknown year
+            return 29;
+        }
+        if (!year) {
+            year = curDate.getFullYear();
+        }
+        return 32 - new Date(year, month - 1, 32).getDate();
+    },
+
+    reloadMonth: function(event)
+    {
+        var selectEl = event.findElement();
+        var idParts = selectEl.id.split("_");
+        if (idParts.length != 3) {
+            return false;
+        }
+        var optionIdPrefix = idParts[0] + "_" + idParts[1];
+        var month = parseInt($(optionIdPrefix + "_month").value);
+        var year = parseInt($(optionIdPrefix + "_year").value);
+        var dayEl = $(optionIdPrefix + "_day");
+
+        var days = this.getDaysInMonth(month, year);
+
+        //remove days
+        for (var i = dayEl.options.length - 1; i &gt;= 0; i--) {
+            if (dayEl.options[i].value &gt; days) {
+                dayEl.remove(dayEl.options[i].index);
+            }
+        }
+
+        // add days
+        var lastDay = parseInt(dayEl.options[dayEl.options.length-1].value);
+        for (i = lastDay + 1; i &lt;= days; i++) {
+            this.addOption(dayEl, i, i);
+        }
+    },
+
+    addOption: function(select, text, value)
+    {
+        var option = document.createElement('OPTION');
+        option.value = value;
+        option.text = text;
+
+        if (select.options.add) {
+            select.options.add(option);
+        } else {
+            select.appendChild(option);
+        }
+    }
+});
+dateOption = new DateOption();
+//]]&gt;
+</script>
+
+    <script type="text/javascript">
+    //&lt;![CDATA[
+    var optionFileUpload = {
+        productForm : $('product_addtocart_form'),
+        formAction : '',
+        formElements : {},
+        upload : function(element){
+            this.formElements = this.productForm.select('input', 'select', 'textarea', 'button');
+            this.removeRequire(element.readAttribute('id').sub('option_', ''));
+
+            template = '&lt;iframe id="upload_target" name="upload_target" style="width:0; height:0; border:0;"&gt;&lt;\/iframe&gt;';
+
+            Element.insert($('option_'+element.readAttribute('id').sub('option_', '')+'_uploaded_file'), {after: template});
+
+            this.formAction = this.productForm.action;
+
+            var baseUrl = 'https://fasttrackit.org/selenium-test/catalog/product/upload/';
+            var urlExt = 'option_id/'+element.readAttribute('id').sub('option_', '');
+
+            this.productForm.action = parseSidUrl(baseUrl, urlExt);
+            this.productForm.target = 'upload_target';
+            this.productForm.submit();
+            this.productForm.target = '';
+            this.productForm.action = this.formAction;
+        },
+        removeRequire : function(skipElementId){
+            for(var i=0; i&lt;this.formElements.length; i++){
+                if (this.formElements[i].readAttribute('id') != 'option_'+skipElementId+'_file' &amp;&amp; this.formElements[i].type != 'button') {
+                    this.formElements[i].disabled='disabled';
+                }
+            }
+        },
+        addRequire : function(skipElementId){
+            for(var i=0; i&lt;this.formElements.length; i++){
+                if (this.formElements[i].readAttribute('name') != 'options_'+skipElementId+'_file' &amp;&amp; this.formElements[i].type != 'button') {
+                    this.formElements[i].disabled='';
+                }
+            }
+        },
+        uploadCallback : function(data){
+            this.addRequire(data.optionId);
+            $('upload_target').remove();
+
+            if (data.error) {
+
+            } else {
+                $('option_'+data.optionId+'_uploaded_file').value = data.fileName;
+                $('option_'+data.optionId+'_file').value = '';
+                $('option_'+data.optionId+'_file').hide();
+                $('option_'+data.optionId+'').hide();
+                template = '&lt;div id="option_'+data.optionId+'_file_box"&gt;&lt;a href="#"&gt;&lt;img src="var/options/'+data.fileName+'" alt=""&gt;&lt;\/a&gt;&lt;a href="#" onclick="optionFileUpload.removeFile('+data.optionId+')" title="Remove file" \/&gt;Remove file&lt;\/a&gt;';
+
+                Element.insert($('option_'+data.optionId+'_uploaded_file'), {after: template});
+            }
+        },
+        removeFile : function(optionId)
+        {
+            $('option_'+optionId+'_uploaded_file').value= '';
+            $('option_'+optionId+'_file').show();
+            $('option_'+optionId+'').show();
+
+            $('option_'+optionId+'_file_box').remove();
+        }
+    }
+    var optionTextCounter = {
+        count : function(field,cntfield,maxlimit){
+            if (field.value.length &gt; maxlimit){
+                field.value = field.value.substring(0, maxlimit);
+            } else {
+                cntfield.innerHTML = maxlimit - field.value.length;
+            }
+        }
+    }
+
+    Product.Options = Class.create();
+    Product.Options.prototype = {
+        initialize : function(config) {
+            this.config = config;
+            this.reloadPrice();
+            document.observe("dom:loaded", this.reloadPrice.bind(this));
+        },
+        reloadPrice : function() {
+            var config = this.config;
+            var skipIds = [];
+            $$('body .product-custom-option').each(function(element){
+                var optionId = 0;
+                element.name.sub(/[0-9]+/, function(match){
+                    optionId = parseInt(match[0], 10);
+                });
+                if (config[optionId]) {
+                    var configOptions = config[optionId];
+                    var curConfig = {price: 0};
+                    if (element.type == 'checkbox' || element.type == 'radio') {
+                        if (element.checked) {
+                            if (typeof configOptions[element.getValue()] != 'undefined') {
+                                curConfig = configOptions[element.getValue()];
+                            }
+                        }
+                    } else if(element.hasClassName('datetime-picker') &amp;&amp; !skipIds.include(optionId)) {
+                        dateSelected = true;
+                        $$('.product-custom-option[id^="options_' + optionId + '"]').each(function(dt){
+                            if (dt.getValue() == '') {
+                                dateSelected = false;
+                            }
+                        });
+                        if (dateSelected) {
+                            curConfig = configOptions;
+                            skipIds[optionId] = optionId;
+                        }
+                    } else if(element.type == 'select-one' || element.type == 'select-multiple') {
+                        if ('options' in element) {
+                            $A(element.options).each(function(selectOption){
+                                if ('selected' in selectOption &amp;&amp; selectOption.selected) {
+                                    if (typeof(configOptions[selectOption.value]) != 'undefined') {
+                                        curConfig = configOptions[selectOption.value];
+                                    }
+                                }
+                            });
+                        }
+                    } else {
+                        if (element.getValue().strip() != '') {
+                            curConfig = configOptions;
+                        }
+                    }
+                    if(element.type == 'select-multiple' &amp;&amp; ('options' in element)) {
+                        $A(element.options).each(function(selectOption) {
+                            if (('selected' in selectOption) &amp;&amp; typeof(configOptions[selectOption.value]) != 'undefined') {
+                                if (selectOption.selected) {
+                                    curConfig = configOptions[selectOption.value];
+                                } else {
+                                    curConfig = {price: 0};
+                                }
+                                optionsPrice.addCustomPrices(optionId + '-' + selectOption.value, curConfig);
+                                optionsPrice.reload();
+                            }
+                        });
+                    } else {
+                        optionsPrice.addCustomPrices(element.id || optionId, curConfig);
+                        optionsPrice.reload();
+                    }
+                }
+            });
+        }
+    }
+    function validateOptionsCallback(elmId, result) {
+        var container = $(elmId).up('ul.options-list');
+        if (result == 'failed') {
+            container.removeClassName('validation-passed');
+            container.addClassName('validation-failed');
+        } else {
+            container.removeClassName('validation-failed');
+            container.addClassName('validation-passed');
+        }
+    }
+    var opConfig = new Product.Options({"4":{"price":50,"oldPrice":50,"priceValue":"50.0000","type":"fixed","excludeTax":50,"includeTax":50}});
+    //]]&gt;
+    </script>
+    <dl class="last">
+            <dt><label>Monogramming</label>
+    <span class="price-notice">+<span class="price">50,00 RON</span></span></dt>
+<dd class="last">
+    <div class="input-box">
+            <textarea id="options_4_text" onchange="opConfig.reloadPrice()" class="  validate-length maximum-length-150 product-custom-option" name="options[4]" rows="5" cols="25"></textarea>
+                <p class="note">Maximum number of characters: <strong>150</strong></p>
+        </div>
+</dd>
+        </dl>
+
+<script type="text/javascript">
+//&lt;![CDATA[
+enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
+Calendar._DN = ["duminic\u0103","luni","mar\u021bi","miercuri","joi","vineri","s\u00e2mb\u0103t\u0103"]; // full day names
+Calendar._SDN = ["Dum","Lun","Mar","Mie","Joi","Vin","S\u00e2m"]; // short day names
+Calendar._FD = 0; // First day of the week. "0" means display Sunday first, "1" means display Monday first, etc.
+Calendar._MN = ["ianuarie","februarie","martie","aprilie","mai","iunie","iulie","august","septembrie","octombrie","noiembrie","decembrie"]; // full month names
+Calendar._SMN = ["ian.","feb.","mar.","apr.","mai","iun.","iul.","aug.","sept.","oct.","nov.","dec."]; // short month names
+Calendar._am = "a.m."; // am/pm
+Calendar._pm = "p.m.";
+
+// tooltips
+Calendar._TT = {};
+Calendar._TT["INFO"] = 'About the calendar';
+
+Calendar._TT["ABOUT"] =
+'DHTML Date/Time Selector\n' +
+"(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+'For latest version visit: http://www.dynarch.com/projects/calendar/\n' +
+'Distributed under GNU LGPL. See http://gnu.org/licenses/lgpl.html for details.' +
+'\n\n' +
+'Date selection:\n' +
+'- Use the \xab, \xbb buttons to select year\n' +
+'- Use the \u2039 buttons to select month\n' +
+'- Hold mouse button on any of the above buttons for faster selection.';
+Calendar._TT["ABOUT_TIME"] = '\n\n' +
+'Time selection:\n' +
+'- Click on any of the time parts to increase it\n' +
+'- or Shift-click to decrease it\n' +
+'- or click and drag for faster selection.';
+
+Calendar._TT["PREV_YEAR"] = 'Prev. year (hold for menu)';
+Calendar._TT["PREV_MONTH"] = 'Prev. month (hold for menu)';
+Calendar._TT["GO_TODAY"] = 'Go Today';
+Calendar._TT["NEXT_MONTH"] = 'Next month (hold for menu)';
+Calendar._TT["NEXT_YEAR"] = 'Next year (hold for menu)';
+Calendar._TT["SEL_DATE"] = 'Select date';
+Calendar._TT["DRAG_TO_MOVE"] = 'Drag to move';
+Calendar._TT["PART_TODAY"] = ' (' + "azi" + ')';
+
+// the following is to inform that "%s" is to be the first day of week
+Calendar._TT["DAY_FIRST"] = 'Display %s first';
+
+// This may be locale-dependent. It specifies the week-end days, as an array
+// of comma-separated numbers. The numbers are from 0 to 6: 0 means Sunday, 1
+// means Monday, etc.
+Calendar._TT["WEEKEND"] = "0,6";
+
+Calendar._TT["CLOSE"] = 'Close';
+Calendar._TT["TODAY"] = "azi";
+Calendar._TT["TIME_PART"] = '(Shift-)Click or drag to change value';
+
+// date formats
+Calendar._TT["DEF_DATE_FORMAT"] = "%e %b %Y";
+Calendar._TT["TT_DATE_FORMAT"] = "%e %B %Y";
+
+Calendar._TT["WK"] = "s\u0103pt\u0103m\u00e2n\u0103";
+Calendar._TT["TIME"] = 'Time:';
+//]]&gt;
+</script>
+            <p class="required">* Required Fields</p>
+    </div>
+<script type="text/javascript">decorateGeneric($$('#product-options-wrapper dl'), ['last']);</script>
+<div class="product-options-bottom">
+    
+
+                        
+    <div class="price-box">
+                                                                <span class="regular-price" id="product-price-370_clone">
+                                            <span class="price">290,00 RON</span>                                    </span>
+                        
+        </div>
+
+    <div class="add-to-cart">
+                <div class="qty-wrapper">
+            <label for="qty">Qty:</label>
+            <input type="text" pattern="\d*(\.\d+)?" name="qty" id="qty" maxlength="12" value="1" title="Qty" class="input-text qty" />
+        </div>
+                <div class="add-to-cart-buttons">
+            <button type="button" title="Add to Cart" class="button btn-cart" onclick="productAddToCartForm.submit(this)"><span><span>Add to Cart</span></span></button>
+                    </div>
+    </div>
+
+
+<ul class="add-to-links">
+    <li><a href="https://fasttrackit.org/selenium-test/wishlist/index/add/product/370/form_key/DROWJPpLyr7TgQSO/" onclick="productAddToCartForm.submitLight(this, this.href); return false;" class="link-wishlist">Add to Wishlist</a></li>
+    <li><span class="separator">|</span> <a href="https://fasttrackit.org/selenium-test/catalog/product_compare/add/product/370/uenc/aHR0cHM6Ly9mYXN0dHJhY2tpdC5vcmcvc2VsZW5pdW0tdGVzdC9pc2xhLWNyb3NzYm9keS1oYW5kYmFnLmh0bWw,/form_key/DROWJPpLyr7TgQSO/" class="link-compare">Add to Compare</a></li>
+
+</ul>
+
+
+
+<ul class="sharing-links">
+            <li><a href="https://fasttrackit.org/selenium-test/sendfriend/product/send/id/370/" class="link-email-friend" title="Email to a Friend">Email to a Friend</a></li>
+    
+                    <li>
+                <a href="http://www.facebook.com/sharer.php?s=100&amp;p[url]=https%3A%2F%2Ffasttrackit.org%2Fselenium-test%2Fisla-crossbody-handbag.html%3F___SID%3DU&amp;p[images][0]=https%3A%2F%2Ffasttrackit.org%2Fselenium-test%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F9df78eab33525d08d6e5fb8d27136e95%2Fa%2Fb%2Fabl000_4.jpg&amp;p[title]=Isla+Crossbody+Handbag&amp;p[summary]=Form+follows+function+with+this+decidedly+chic+mini+bag." target="_blank" title="Share on Facebook" class="link-facebook">
+            Share Facebook        </a>
+    </li>
+    <li>
+        <a href="http://twitter.com/home?status=Isla+Crossbody+Handbag+https%3A%2F%2Ffasttrackit.org%2Fselenium-test%2Fisla-crossbody-handbag.html%3F___SID%3DU" target="_blank" title="Share on Twitter" class="link-twitter">Share on Twitter</a>
+    </li>
+</ul>
+
+</div>
+                
+            </div>
+
+            <div class="add-to-cart-wrapper">
+                
+                
+                            </div>
+
+            
+            <div class="clearer"></div>
+                                                </form>
+        <script type="text/javascript">
+        //&lt;![CDATA[
+            var productAddToCartForm = new VarienForm('product_addtocart_form');
+            productAddToCartForm.submit = function(button, url) {
+                if (this.validator.validate()) {
+                    var form = this.form;
+                    var oldUrl = form.action;
+
+                    if (url) {
+                       form.action = url;
+                    }
+                    var e = null;
+                    try {
+                        this.form.submit();
+                    } catch (e) {
+                    }
+                    this.form.action = oldUrl;
+                    if (e) {
+                        throw e;
+                    }
+
+                    if (button &amp;&amp; button != 'undefined') {
+                        button.disabled = true;
+                    }
+                }
+            }.bind(productAddToCartForm);
+
+            productAddToCartForm.submitLight = function(button, url){
+                if(this.validator) {
+                    var nv = Validation.methods;
+                    delete Validation.methods['required-entry'];
+                    delete Validation.methods['validate-one-required'];
+                    delete Validation.methods['validate-one-required-by-name'];
+                    // Remove custom datetime validators
+                    for (var methodName in Validation.methods) {
+                        if (methodName.match(/^validate-datetime-.*/i)) {
+                            delete Validation.methods[methodName];
+                        }
+                    }
+
+                    if (this.validator.validate()) {
+                        if (url) {
+                            this.form.action = url;
+                        }
+                        this.form.submit();
+                    }
+                    Object.extend(Validation.methods, nv);
+                }
+            }.bind(productAddToCartForm);
+        //]]&gt;
+        </script>
+    </div>
+
+    <div class="product-collateral toggle-content tabs">
+                    <ul class="toggle-tabs"><li class="current"><span>Description</span></li><li><span>Additional Information</span></li><li class="last"><span>Reviews</span></li></ul><dl id="collateral-tabs" class="collateral-tabs">
+                                    <dt class="tab current"><span>Description</span></dt>
+                    <dd class="tab-container current">
+                        <div class="tab-content">    <h2>Details</h2>
+    <div class="std">
+        Pebbled leather. Contrast stitching. Fold over flap with Fasten closure. Crossbody strap. 6" x 8" x 0.75".    </div>
+</div>
+                    </dd>
+                                    <dt class="tab"><span>Additional Information</span></dt>
+                    <dd class="tab-container">
+                        <div class="tab-content">    <h2>Additional Information</h2>
+    <table class="data-table" id="product-attribute-specs-table">
+        <colgroup><col width="25%" />
+        <col />
+        </colgroup><tbody>
+                    <tr class="first odd">
+                <th class="label">Color</th>
+                <td class="data last">Black</td>
+            </tr>
+                    <tr class="even">
+                <th class="label">Gender</th>
+                <td class="data last">Female</td>
+            </tr>
+                    <tr class="last odd">
+                <th class="label">Material</th>
+                <td class="data last">Leather</td>
+            </tr>
+                </tbody>
+    </table>
+    <script type="text/javascript">decorateTable('product-attribute-specs-table')</script>
+</div>
+                    </dd>
+                                    <dt class="tab last"><span>Reviews</span></dt>
+                    <dd class="tab-container last">
+                        <div class="tab-content">
+<div class="box-collateral box-reviews" id="customer-reviews">
+            <div class="review-heading">
+            <h2>
+                Customer Reviews                <span>4 item(s)</span>
+            </h2>
+                    </div>
+        <dl>
+                    <dt>
+                <a href="https://fasttrackit.org/selenium-test/review/product/view/id/58/">
+                    fast shipping                </a>
+            </dt>
+            <dd>
+                
+                the shipping was fast. althot it turned out to be not as big as what I thought. But it was nice and the color is a little bit dark than what I thought
+
+                                <table class="ratings-table">
+                    <colgroup>
+                        <col class="review-label" />
+                        <col class="review-value" />
+                    </colgroup>
+                    <tbody>
+                                                <tr>
+                            <th>Price</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:80%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Value</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:80%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Quality</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:60%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                            </tbody>
+                </table>
+                
+
+                <span class="review-meta">
+                    Review by Richie A                    /
+                   (Posted on 28.05.2013)                </span>
+            </dd>
+                    <dt>
+                <a href="https://fasttrackit.org/selenium-test/review/product/view/id/48/">
+                    Love it                </a>
+            </dt>
+            <dd>
+                
+                Love it.  It's like a wallet that I can't lose.
+
+                                <table class="ratings-table">
+                    <colgroup>
+                        <col class="review-label" />
+                        <col class="review-value" />
+                    </colgroup>
+                    <tbody>
+                                                <tr>
+                            <th>Price</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Value</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Quality</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                            </tbody>
+                </table>
+                
+
+                <span class="review-meta">
+                    Review by Laura B                    /
+                   (Posted on 28.05.2013)                </span>
+            </dd>
+                    <dt>
+                <a href="https://fasttrackit.org/selenium-test/review/product/view/id/18/">
+                    Cute bag buttt to small                </a>
+            </dt>
+            <dd>
+                
+                Blahh!!!,Smaller then I thought itd be. Why isn’t it cheaper?
+
+                                <table class="ratings-table">
+                    <colgroup>
+                        <col class="review-label" />
+                        <col class="review-value" />
+                    </colgroup>
+                    <tbody>
+                                                <tr>
+                            <th>Price</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:80%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Value</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:80%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Quality</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                            </tbody>
+                </table>
+                
+
+                <span class="review-meta">
+                    Review by Nia T                    /
+                   (Posted on 06.03.2013)                </span>
+            </dd>
+                    <dt>
+                <a href="https://fasttrackit.org/selenium-test/review/product/view/id/17/">
+                    Cute bag. Too small.                </a>
+            </dt>
+            <dd>
+                
+                Love it!
+
+                                <table class="ratings-table">
+                    <colgroup>
+                        <col class="review-label" />
+                        <col class="review-value" />
+                    </colgroup>
+                    <tbody>
+                                                <tr>
+                            <th>Price</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Value</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                                <tr>
+                            <th>Quality</th>
+                            <td>
+                                <div class="rating-box">
+                                    <div class="rating" style="width:100%;"></div>
+                                </div>
+                            </td>
+                        </tr>
+                                            </tbody>
+                </table>
+                
+
+                <span class="review-meta">
+                    Review by Nia T                    /
+                   (Posted on 06.03.2013)                </span>
+            </dd>
+                </dl>
+
+                </div>
+</div>
+                    </dd>
+                            </dl>
+            </div>
+
+        
+</div>
+
+<script type="text/javascript">
+    var lifetime = 3600;
+    var expireAt = Mage.Cookies.expires;
+    if (lifetime &gt; 0) {
+        expireAt = new Date();
+        expireAt.setTime(expireAt.getTime() + lifetime * 1000);
+    }
+    Mage.Cookies.set('external_no_cache', 1, expireAt);
+</script>
+                </div>
+            </div>
+        </div>
+                <div class="footer-container">
+    <div class="footer">
+        <div class="block block-subscribe">
+    <div class="block-title">
+        <strong><span>Newsletter</span></strong>
+    </div>
+    <form action="https://fasttrackit.org/selenium-test/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div class="block-content">
+            <div class="form-subscribe-header">
+                <label for="newsletter">Sign Up for Our Newsletter:</label>
+            </div>
+            <div class="input-box">
+               <input type="email" autocapitalize="off" autocorrect="off" spellcheck="false" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email" />
+            </div>
+            <div class="actions">
+                <button type="submit" title="Subscribe" class="button"><span><span>Subscribe</span></span></button>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //&lt;![CDATA[
+        var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    //]]&gt;
+    </script>
+</div>
+<div class="links">
+	<div class="block-title">
+		<strong><span>Company</span></strong>
+	</div>
+	<ul>
+		<li><a href="https://fasttrackit.org/selenium-test/about-magento-demo-store/">About Us</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/contacts/">Contact Us</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/customer-service/">Customer Service</a></li>
+		<li><a href="https://fasttrackit.org/selenium-test/privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+	</ul>
+</div><div class="links">
+        <div class="block-title"><strong><span>Quick Links</span></strong></div>
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
+                                                <li><a href="https://fasttrackit.org/selenium-test/catalogsearch/term/popular/" title="Search Terms">Search Terms</a></li>
+                                                <li class=" last"><a href="https://fasttrackit.org/selenium-test/catalogsearch/advanced/" title="Advanced Search">Advanced Search</a></li>
+                        </ul>
+</div>
+<div class="links">
+        <div class="block-title"><strong><span>Account</span></strong></div>
+        <ul>
+                                    <li class="first"><a href="https://fasttrackit.org/selenium-test/customer/account/" title="My Account">My Account</a></li>
+                                                                        </ul>
+</div>
+<div class="links social-media">
+	<div class="block-title">
+		<strong><span>Connect With Us</span></strong>
+	</div>
+	<ul>
+		<li><a href="#"><em class="facebook"></em>Facebook</a></li>
+		<li><a href="#"><em class="twitter"></em>Twitter</a></li>
+		<li><a href="#"><em class="youtube"></em>YouTube</a></li>
+		<li><a href="#"><em class="pinterest"></em>Pinterest</a></li>
+		<li class="last"><a href="#"><em class="rss"></em>RSS</a></li>
+	</ul>
+</div>        <address class="copyright">© 2014 Madison Island. All Rights Reserved.</address>
+    </div>
+</div>
+                
+
+    </div>
+</div>
+
+
+
+<div class="zoomContainer" style="-webkit-transform: translateZ(0);position:absolute;left:31px;top:287px;height:337px;width:507px;"><div class="zoomLens" style="background-position: 0px 0px; float: right; overflow: hidden; z-index: 999; transform: translateZ(0px); opacity: 0.4; zoom: 1; width: 238.869px; height: 238.584px; background-color: white; cursor: default; border: 1px solid rgb(0, 0, 0); background-repeat: no-repeat; position: absolute; left: 0px; top: 88px; display: none;"> </div><div class="zoomWindowContainer" style="width: 400px;"><div style="overflow: hidden; background-position: 0px -149.371px; text-align: center; background-color: rgb(255, 255, 255); width: 400px; height: 400px; float: left; background-size: 849px 565px; z-index: 100; border: 4px solid rgb(136, 136, 136); background-repeat: no-repeat; position: absolute; background-image: url(&quot;https://fasttrackit.org/selenium-test/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abl000_4.jpg&quot;); top: 0px; left: 507px; display: none;" class="zoomWindow"> </div></div></div></body></html>
